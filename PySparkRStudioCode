@@ -1,4 +1,4 @@
-# There will be several errors although if you keep lines of codes within a variable (i.e.:  x = 2^2), and enter that labelled variable - 
+# There will be several errors although if lines of codes within a variable (i.e.:  x = 2^2), and enter that labelled variable - 
 # it will display as output - using R window not R-Studio.
 # The tip above was retrieved from GitHub... 
 
@@ -12,7 +12,7 @@ from pyspark import *
 from pyspark import SparkContext
 from pyspark import SparkConf
 
-# This piece of code was taken from Stack Overflow.
+# This piece of code (4 lines) was taken from Stack Overflow.
 import ctypes
 kernel32 = ctypes.WinDLL('kernel32', use_last_error=True)
 kernel32.SetStdHandle(-11, None)
