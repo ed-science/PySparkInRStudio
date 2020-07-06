@@ -3,6 +3,7 @@
 # The tip above was retrieved from GitHub... 
 
 # Kernal code was important along with the pyspark settings.
+# Install libraries
 
 
 library(reticulate)
